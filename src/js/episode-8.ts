@@ -5,6 +5,6 @@ const sexe : string = prompt('Quel est votre sexe (M ou F) ? ')!;
         alert('Entrée invalide. Veillez recommencer'); //Le message d'erreur
     } else if (sexe === 'M') { //Si le sex que l'utilisateur a entré est M alors on dit Bonjour monsier ...
         alert('Bonjour ' + ' monsieur ' + name);
-        } else {                    // Dans le cas contraire si l'utilisateur entre F alors on affihera Bonjour madame ... 
-            alert('Bonjour ' + ' madame ' + name);
-          }
+    } else {                    // Dans le cas contraire si l'utilisateur entre F alors on affihera Bonjour madame ... 
+        alert('Bonjour ' + ' madame ' + name);
+    }
