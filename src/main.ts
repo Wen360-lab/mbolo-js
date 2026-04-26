@@ -7,4 +7,7 @@
 // import './js/episode-7' //Importation de l'épisode 7
 // import './js/episode-8' //Importation de l'épisode 8
 // import './js/episode-9' //Importation de l'épisode 9
-import './js/episode-10' //Importation de l'épisode 10
+// import './js/episode-10' //Importation de l'épisode 10
+// import './js/episode-11' //Importation de l'épisode 11
+// import './js/episode-12' //Importation de l'épisode 12
+import './js/episode-13' //Importation de l'épisode 13

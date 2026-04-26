@@ -1,5 +1,7 @@
 // Programme qui demande la moyenne d'un élève et affcihe sa mention
+
 const moy : number = Number(prompt('Veuillez entrer votre moyenne : ')); //L'utilisateur saisie sa moyenne
+    
     if (moy < 0 || moy > 20) {                                           //Si cette moyenne est stictement inférieur à 0 et strictement supérieur à 20 
         alert('Entrée invalide. Veuillez recommancer');                  //On affiche un message d'erreur
     } else if (moy >= 0 && moy <= 11) {                                  //Si la moyenne est comprise entre 0 et 11 : Mention Passable
